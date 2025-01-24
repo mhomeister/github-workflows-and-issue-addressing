@@ -18,14 +18,14 @@ Using `closes #NUMBER` for example in one of the following locations closes issu
 
 ### Available Keywords (Must be directly in front of issue number)
 
-- close
-- closes
-- closed
-- fix
-- fixes
-- fixed
-- resolve
-- resolves
-- resolved
+- `close`
+- `closes`
+- `closed`
+- `fix`
+- `fixes`
+- `fixed`
+- `resolve`
+- `resolves`
+- `resolved`
 
 [More Info](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue)
