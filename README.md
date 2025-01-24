@@ -7,7 +7,7 @@ on:
 ```
 is more than enough to only run the workflow when a commit is made to `main` or a PR is merged to `main`
 
-## Addressing issues
+# Addressing issues in PRs and commits
 
 Using `closes #NUMBER` for example in one of the following locations closes issue #NUMBER when merged with main.
 
